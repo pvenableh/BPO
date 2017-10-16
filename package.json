@@ -1,0 +1,21 @@
+{
+    "name": "com.phonegap.binghamtonphilharmonic",
+    "version": "1.0.0",
+    "displayName": "Binghamton Philharmonic",
+    "cordova": {
+        "platforms": [
+            "ios"
+        ],
+        "plugins": {
+            "cordova-plugin-console": {},
+            "cordova-plugin-statusbar": {},
+            "cordova-plugin-whitelist": {}
+        }
+    },
+    "dependencies": {
+        "cordova-ios": "~4.4.0",
+        "cordova-plugin-console": "~1.0.1",
+        "cordova-plugin-statusbar": "~1.0.1",
+        "cordova-plugin-whitelist": "~1.2.0"
+    }
+}
